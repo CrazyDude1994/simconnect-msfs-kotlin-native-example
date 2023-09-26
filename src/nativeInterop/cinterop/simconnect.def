@@ -1,0 +1,3 @@
+headers = windows.h src/headers/SimConnect.h
+libraryPaths = "E:\Games\MFS SDK\SimConnect SDK\lib"
+staticLibraries = SimConnect.lib
